@@ -1,7 +1,3 @@
-Hoal soy reDME
+Readmeee Mejorado 
 
-Vamos a hacer un comit
-
-otro comwntRIO
-
-Otro mas
+Arreglado y ferpecto
